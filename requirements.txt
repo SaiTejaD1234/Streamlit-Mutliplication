@@ -1,2 +1,1 @@
-pipreqs <directory-path>
-streamlit==0.79.0
+streamlit==1.15.1
